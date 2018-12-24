@@ -1,0 +1,41 @@
+{
+  "name": "toutiao-m",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fakeData.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^9.4.3",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^6.4.1",
+    "babel-plugin-add-module-exports": "^0.1.4",
+    "babel-plugin-transform-decorators-legacy": "^1.3.5",
+    "babel-plugin-transform-es2015-for-of": "^6.23.0",
+    "babel-plugin-transform-es3-member-expression-literals": "^6.22.0",
+    "babel-plugin-transform-es3-property-literals": "^6.22.0",
+    "babel-plugin-transform-object-assign": "^6.22.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "cross-env": "^5.1.4",
+    "css-loader": "^2.0.2",
+    "ejs": "^2.6.1",
+    "ejs-compiled-loader": "^1.1.0",
+    "ejs-loader": "^0.3.1",
+    "ejs-webpack-loader": "^2.2.2",
+    "html-webpack-plugin": "^3.2.0",
+    "postcss-loader": "^3.0.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.9.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --hot --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
