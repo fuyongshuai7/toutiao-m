@@ -4,11 +4,12 @@ var autoprefixer = require('autoprefixer');
 
 module.exports = {
     entry: {
-        toutiao: path.resolve(__dirname, "src", "js", 'toutiao.js')
+        toutiao: path.resolve(__dirname, "src", "js", 'toutiao.js'),
+        home:path.resolve(__dirname,'src','js','home.js')
     },
     output: {
         path: path.resolve(__dirname, 'public'),
-        filename: "js/[name].bundle.js",
+        filename: "js/[name].bundle.js",//输出到js目录下
     },
     devtool: 'eval-source-map',
     devServer: {
@@ -25,13 +26,6 @@ module.exports = {
                 }
             ]
         },
-        // proxy: {
-        //     "/v1/*": {
-        //         "target": "http://www.googel.com",//输出http://www.google.com/v1/*
-        //         "changOrigin": true,//有没有换域
-        //         "secure": false,//接受运行在 HTTPS 上，且使用了无效证书的后端服务器
-        //     },
-        // }
     },
     module: {
         rules: [
@@ -88,6 +82,13 @@ module.exports = {
             filename: 'pages/toutiao.html',//输出的页面路径
             template: path.resolve(__dirname, 'src', 'pages', 'toutiao.html'),//页面模板
             inject: true,
+            chunks:["toutiao"]//对应entry
+        }),
+        new HtmlWebpackPlugin({
+            filename:'pages/home.html',
+            template:path.resolve(__dirname,'src','pages','home.html'),
+            inject: true,
+            chunks:["home"]
         })
     ],
 }

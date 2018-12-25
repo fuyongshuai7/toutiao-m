@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
+    <script>
+        var resizeEvt = "orientationchange" in window ? "orientationchange" : "resize";
+        document.addEventListener("DOMContentLoaded", rem, false);
+        window.addEventListener(resizeEvt, rem, false);
+        function rem() {
+            document.getElementsByTagName('html')[0].style.fontSize = document.body.clientWidth / 10 + 'px';
+        };
+    </script>
+</head>
+
+<body>
+    <div class="top">
+        <div class="appName">ToutiaoNews</div>
+        <div class="newsKinds">
+            <a class="recommend scroll" href="http://www.baidu.com">推荐</a>
+            <a class="video scroll" href="http://www.baidu.com">视频</a>
+            <a class="hot scroll" href="http://www.baidu.com">热点</a>
+            <a class="sport scroll" href="http://www.baidu.com">体育</a>
+            <a class="entertainment scroll" href="http://www.baidu.com">娱乐</a>
+            <a class="car scroll" href="http://www.baidu.com">汽车</a>
+            <a class="international scroll" href="http://www.baidu.com">国际</a>
+            <a class="society scroll" href="http://www.baidu.com">社会</a>
+            <a class="technology scroll" href="http://www.baidu.com">科技</a>
+            <a class="military scroll" href="http://www.baidu.com">军事</a>
+        </div>
+    </div>
+    <div class="main"></div>
+    <div class="foot"></div>
+</body>
+
+</html>

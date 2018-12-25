@@ -1,0 +1,42 @@
+<% if(locals.list){ %>
+    <% list.forEach(function(item){ %>
+        <% if (item.type==1){ %>
+            <a class="type1" href="<%= item.url %>">
+                <div class="des"><%= item.title %></div>
+                <div class="message tp1-meg">
+                    <span class="writer style"><%= item.writer %></span>
+                    <span class="comment style">评论 <%= item.comment %></span>
+                    <span class="time style"><%= beforMinute(item.time) %>分钟前</span>
+                </div>
+            </a>
+        <% }else if (item.type==2){ %>
+            <a class="type2" href="<%= item.url %>">
+                <div class="left">
+                    <div class="des"><%= item.title %></div>
+                    <div class="message tp2-meg">
+                        <span class="writer style"><%= item.writer %></span>
+                        <span class="comment style">评论 <%= item.comment %></span>
+                        <span class="time style"><%= beforMinute(item.time) %>分钟前</span>
+                    </div>
+                </div>
+                <div class="img">
+                    <img src="<%= item.img %>" alt="image">
+                </div>
+            </a>
+        <% }else if(item.type==3){ %>
+            <a class="type3" href="<%= item.url %>">
+                <div class="des"><%= item.title %></div>
+                <div class="img">
+                    <img src="<%= item.img1 %>" alt="image">
+                    <img src="<%= item.img2 %>" alt="image">
+                    <img src="<%= item.img3 %>" alt="image">
+                </div>
+                <div class="message tp3-meg">
+                    <span class="writer style"><%= item.writer %></span>
+                    <span class="comment style">评论 <%= item.comment %></span>
+                    <span class="time style"><%= beforMinute(item.time) %>分钟前</span>
+                </div>
+            </a>
+        <% } %>
+    <% }) %>
+<% } %>
