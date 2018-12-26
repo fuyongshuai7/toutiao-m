@@ -3,72 +3,72 @@ var data = {
         type: 1,
         img: "../asset/img.jpg",
         durition: "00:20",
-        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多撒旦王多撒多",
         url: "http://baidu.com"
     },
     {
         type: 1,
         img: "../asset/img.jpg",
         durition: "00:20",
-        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com"
     }, {
         type: 1,
         img: "../asset/img.jpg",
         durition: "00:20",
-        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com"
     }, {
         type: 1,
         img: "../asset/img.jpg",
         durition: "00:20",
-        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com"
     }, {
         type: 1,
         img: "../asset/img.jpg",
         durition: "00:20",
-        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com"
     }, {
         type: 1,
         img: "../asset/img.jpg",
         durition: "00:20",
-        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com"
     },
     {
         type: 2,
         img: "../asset/img.jpg",
         durition: "00:20",
-        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com"
     },
     {
         type: 2,
         img: "../asset/img.jpg",
         durition: "00:20",
-        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com"
     },
     {
         type: 2,
         img: "../asset/img.jpg",
         durition: "00:20",
-        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com"
     },
     {
         type: 2,
         img: "../asset/img.jpg",
         durition: "00:20",
-        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        tittle: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com"
     }
     ],
     homeList: [{
         type: 1,
-        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com",
         comment: 123,
         time: 1545750028902,
@@ -76,7 +76,7 @@ var data = {
     },
     {
         type: 1,
-        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com",
         comment: 123,
         time: 1545750028902,
@@ -85,7 +85,7 @@ var data = {
     {
         type: 2,
         img: "../asset/img.jpg",
-        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com",
         comment: 123,
         time: 1545750028902,
@@ -93,7 +93,7 @@ var data = {
     },
     {
         type: 1,
-        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com",
         comment: 123,
         time: 1545750028902,
@@ -104,7 +104,7 @@ var data = {
         img1: "../asset/img.jpg",
         img2: "../asset/img.jpg",
         img3: "../asset/img.jpg",
-        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com",
         comment: 123,
         time: 1545750028902,
@@ -112,7 +112,7 @@ var data = {
     },
     {
         type: 1,
-        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com",
         comment: 123,
         time: 1545750028902,
@@ -123,7 +123,7 @@ var data = {
         img1: "../asset/img.jpg",
         img2: "../asset/img.jpg",
         img3: "../asset/img.jpg",
-        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com",
         comment: 123,
         time: 1545750028902,
@@ -132,7 +132,7 @@ var data = {
     {
         type: 2,
         img: "../asset/img.jpg",
-        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com",
         comment: 123,
         time: 1545750028902,
@@ -141,7 +141,7 @@ var data = {
     {
         type: 2,
         img: "../asset/img.jpg",
-        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com",
         comment: 123,
         time: 1545750028902,
@@ -152,7 +152,7 @@ var data = {
         img1: "../asset/img.jpg",
         img2: "../asset/img.jpg",
         img3: "../asset/img.jpg",
-        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com",
         comment: 123,
         time: 1545750028902,
@@ -164,7 +164,7 @@ var data = {
         img1: "../asset/img.jpg",
         img2: "../asset/img.jpg",
         img3: "../asset/img.jpg",
-        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为",
+        title: "时间节点基督教岑溪三生三世大的二过扩能源进口客气啊我上次立刻就换个方式为撒旦王多撒多",
         url: "http://baidu.com",
         comment: 123,
         time: 1545750028902,

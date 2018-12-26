@@ -49,6 +49,11 @@ a{
 .main .des{
     font-size: 0.5rem;
     color:black;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp:2;
+    -webkit-box-orient: vertical;
 }
 .main .message{
     font-size: 0.25rem;
@@ -62,13 +67,6 @@ a{
     width: 65%;
     display: inline-block;
     vertical-align: middle;
-}
-.main .type2 .des{
-    text-overflow: ellipsis;
-    overflow: hidden;
-    display: -webkit-box;
-    -webkit-line-clamp:2;
-    -webkit-box-orient: vertical;
 }
 .main .type2 .img{
     width: 33%;

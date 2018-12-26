@@ -31,3 +31,17 @@ export function beforMinute(timestamp) {
     var m = parseInt(t / 60);
     return m;
 }
+
+export function scroll(func) {
+    var scrollTop = document.documentElement.scrollTop;
+    var clientHeight = document.documentElement.clientHeight;
+    var scrollHeight = document.documentElement.scrollHeight;
+    var sc = scrollTop + clientHeight;
+    if (scrollHeight -sc >= 10) {
+        func();
+    }
+}
+
+
+
+
