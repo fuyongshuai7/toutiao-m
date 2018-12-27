@@ -14,7 +14,7 @@ module.exports = {
     devtool: 'eval-source-map',
     devServer: {
         contentBase: ["./src"],//根目录
-        hot: false,//热更新
+        hot: true,//热更新
         open: true,//npm run 自动打开页面
         inline: true,
         port: 9000,
